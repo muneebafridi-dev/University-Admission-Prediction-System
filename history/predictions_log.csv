@@ -1,0 +1,10 @@
+Timestamp,GRE,TOEFL,UniversityRating,SOP,LOR,CGPA,Research,PredictedChance
+2026-06-30 16:21:36,300.0,100.0,3.0,4.0,3.3,3.1,1,66.81
+2026-06-30 16:31:17,300.0,100.0,4.0,4.0,3.0,3.0,1,69.34
+2026-06-30 17:05:33,300.0,110.0,4.0,3.0,3.0,3.0,1,74.43
+2026-06-30 17:11:07,100.0,110.0,4.0,3.0,2.3,2.2,1,74.43
+2026-07-01 00:37:29,300.0,110.0,3.0,3.0,2.0,3.0,1,71.83
+2026-07-01 00:50:45,BS (Bachelor's),70.0,,,88.0,60.0,,,72.2
+2026-07-01 01:13:38,Master's,"{""CGPA"": 3.3, ""Entry Test Score"": 80.0, ""RelevantDegree"": ""BS Software Engineering""}",81.25
+2026-07-01 01:29:01,PhD,"{""MS/MPhil CGPA"": 3.3, ""GAT-Subject / HAT-Subject Score"": 50.0, ""Research Publications"": 8.0, ""RelevantDegree"": ""MS Electrical Engineering""}",73.0
+2026-07-03 10:11:41,BS (Bachelor's),"{""Matric Percentage"": 70.0, ""Intermediate Percentage"": 80.0, ""Entry Test Percentage"": 66.0}",72.0
